@@ -3,6 +3,9 @@
 I'm Wrona - a recent graduate of an AI Master's program.
 
 ➡Here are some of my latest AI projects
+* Test
+
+
 
 <!--
 **Wrona13/Wrona13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
