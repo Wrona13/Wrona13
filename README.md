@@ -2,10 +2,9 @@
 
 I'm Wrona - a recent graduate of an AI Master's program.
 
-##➡Here are some of my latest AI projects
-* Fake news detector
-  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://colab.research.google.com/drive/1N6KZjSO74yGua5FMO7mbb-I_8wnnjRM2?usp=sharing)" target="_blank" rel="noreferrer">Fake</a>
-* 
+## ➡Here are some of my latest AI projects
+* <p><a href="https://colab.research.google.com/drive/1N6KZjSO74yGua5FMO7mbb-I_8wnnjRM2?usp=sharing">Fake news detector</a></p>
+
 
 
 
