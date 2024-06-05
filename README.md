@@ -3,7 +3,8 @@
 I'm Wrona - a recent graduate of an AI Master's program.
 
 ## ➡Here are some of my latest AI projects
-* <p><a href="https://colab.research.google.com/drive/1N6KZjSO74yGua5FMO7mbb-I_8wnnjRM2?usp=sharing">Fake news detector</a></p>
+* <h4><a href="https://colab.research.google.com/drive/1N6KZjSO74yGua5FMO7mbb-I_8wnnjRM2?usp=sharing">Fake news detector</a></h4><p>dataset: <a href="https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset">fake-and-real-news-dataset</a><p>
+* <h4><a href="https://colab.research.google.com/drive/1ARgpiGjs_LCYNfrD5EDW9UIYMbY6T5Vy?usp=sharing">Low light Image fixr</a></h4><p>Uses pretrained keras model to lighten dark images</p>
 
 
 
